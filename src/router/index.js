@@ -1,14 +1,14 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Hello from '@/components/Hello'
+import Home from '@/components/home'
 
 Vue.use(Router)
 
 // Pointing routes to the components they should use
 const routes = [{
 	path: '/',
-	name: 'Hello',
-	component: Hello
+	name: 'home',
+	component: Home
 }, {
 	// Any invalid route will redirect to home
 	path: '*',
