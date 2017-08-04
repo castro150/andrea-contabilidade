@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import Home from '@/components/pages/Home'
 import About from '@/components/pages/About'
 import Utils from '@/components/pages/Utils'
+import Calculations from '@/components/pages/Calculations'
 
 Vue.use(Router)
 
@@ -19,6 +20,10 @@ const routes = [{
 	path: '/utils',
 	name: 'utils',
 	component: Utils
+}, {
+	path: '/calculations',
+	name: 'calculations',
+	component: Calculations
 }, {
 	// Any invalid route will redirect to home
 	path: '*',

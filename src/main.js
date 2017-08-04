@@ -4,6 +4,14 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
+import 'vue-awesome/icons'
+import Icon from 'vue-awesome/components/Icon'
+
+import PageContent from './components/global/PageContent'
+
+Vue.component('icon', Icon)
+Vue.component('page-content', PageContent)
+
 Vue.config.productionTip = false
 
 window.$bus = new Vue()

@@ -24,5 +24,5 @@ export default {
 <style lang="scss">
 $dark-blue: #002E53;
 $primary: $dark-blue;
-@import "../node_modules/bulma/bulma";
+@import "~bulma/bulma";
 </style>

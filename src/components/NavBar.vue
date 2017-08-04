@@ -11,7 +11,7 @@
           <a class="navbar-link">Links</a>
           <div class="navbar-dropdown">
             <router-link :to="'/utils'" class="navbar-item">Links Úteis</router-link>
-            <router-link :to="'/'" class="navbar-item">Cálculos</router-link>
+            <router-link :to="'/calculations'" class="navbar-item">Cálculos</router-link>
           </div>
         </div>
 
