@@ -5,12 +5,12 @@
       <div class="navbar-end">
         <router-link :to="'/'" class="navbar-item">Home</router-link>
 
-        <router-link :to="'/'" class="navbar-item">Sobre Nós</router-link>
+        <router-link :to="'/about'" class="navbar-item">Sobre Nós</router-link>
 
         <div class="navbar-item has-dropdown is-hoverable is-right">
           <a class="navbar-link">Links</a>
           <div class="navbar-dropdown">
-            <router-link :to="'/'" class="navbar-item">Links Úteis</router-link>
+            <router-link :to="'/utils'" class="navbar-item">Links Úteis</router-link>
             <router-link :to="'/'" class="navbar-item">Cálculos</router-link>
           </div>
         </div>

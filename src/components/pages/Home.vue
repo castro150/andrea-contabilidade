@@ -2,9 +2,7 @@
 <div class="columns">
   <div class="column is-8 is-offset-2">
     <section class="section">
-      <h1 class="title">
-      Lembretes Importantes
-    </h1>
+      <h1 class="title">Lembretes Importantes</h1>
       <div class="content">
         <ol>
           <li>
