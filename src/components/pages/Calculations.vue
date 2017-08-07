@@ -38,12 +38,3 @@ export default {
   }
 }
 </script>
-
-<style lang="css" scoped>
-.message-icon {
-  padding: 15px;
-}
-p {
-  font-size: 12px;
-}
-</style>

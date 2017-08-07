@@ -18,13 +18,13 @@
         <div class="navbar-item has-dropdown is-hoverable is-right">
           <a class="navbar-link">Consultas</a>
           <div class="navbar-dropdown">
-            <router-link :to="'/'" class="navbar-item">Inscrições</router-link>
-            <router-link :to="'/'" class="navbar-item">Documentos</router-link>
-            <router-link :to="'/'" class="navbar-item">Atividades</router-link>
+            <router-link :to="'/registrations'" class="navbar-item">Inscrições</router-link>
+            <router-link :to="'/documents'" class="navbar-item">Documentos</router-link>
+            <router-link :to="'/activities'" class="navbar-item">Atividades</router-link>
           </div>
         </div>
 
-        <router-link :to="'/'" class="navbar-item">Contato</router-link>
+        <router-link :to="'/contact'" class="navbar-item">Contato</router-link>
       </div>
     </div>
   </div>
