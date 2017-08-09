@@ -1,30 +1,30 @@
 <template>
-<nav class="navbar whitesmoke-bg">
+<nav class="navbar whitesmoke-bg is-fex-top">
   <div class="container">
     <div class="navbar-menu">
       <div class="navbar-end">
-        <router-link :to="'/'" class="navbar-item">Home</router-link>
+        <a href="#home" class="navbar-item">Home</a>
 
-        <router-link :to="'/about'" class="navbar-item">Sobre Nós</router-link>
+        <a href="#about" class="navbar-item">Sobre Nós</a>
 
         <div class="navbar-item has-dropdown is-hoverable is-right">
           <a class="navbar-link">Links</a>
           <div class="navbar-dropdown">
-            <router-link :to="'/utils'" class="navbar-item">Links Úteis</router-link>
-            <router-link :to="'/calculations'" class="navbar-item">Cálculos</router-link>
+            <a href="#utils" class="navbar-item">Links Úteis</a>
+            <a href="#calculations" class="navbar-item">Cálculos</a>
           </div>
         </div>
 
         <div class="navbar-item has-dropdown is-hoverable is-right">
           <a class="navbar-link">Consultas</a>
           <div class="navbar-dropdown">
-            <router-link :to="'/registrations'" class="navbar-item">Inscrições</router-link>
-            <router-link :to="'/documents'" class="navbar-item">Documentos</router-link>
-            <router-link :to="'/activities'" class="navbar-item">Atividades</router-link>
+            <a href="#registrations" class="navbar-item">Inscrições</a>
+            <a href="#documents" class="navbar-item">Documentos</a>
+            <a href="#activities" class="navbar-item">Atividades</a>
           </div>
         </div>
 
-        <router-link :to="'/contact'" class="navbar-item">Contato</router-link>
+        <a href="#contact" class="navbar-item">Contato</a>
       </div>
     </div>
   </div>
@@ -34,5 +34,11 @@
 <style lang="css" scoped>
 .whitesmoke-bg {
   background-color: whitesmoke;
+}
+
+nav {
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  -moz-box-shadow:    0 1px 3px rgba(0,0,0,0.4);
+  box-shadow:         0 1px 3px rgba(0,0,0,0.4);
 }
 </style>

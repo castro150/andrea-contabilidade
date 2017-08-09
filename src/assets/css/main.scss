@@ -1,0 +1,29 @@
+$dark-blue: #002E53;
+$primary: $dark-blue;
+
+@import '~bulma/bulma';
+
+/* CONTENT */
+.is-content-centered {
+  display: table !important;
+  margin: 0 auto !important;
+}
+
+.is-fex-top {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+/* PADDING HELPERS */
+/* TOP */
+.p-t-15 {
+  padding-top: 15px;
+}
+
+/* BOTTOM */
+.p-b-15 {
+  padding-bottom: 15px;
+}
