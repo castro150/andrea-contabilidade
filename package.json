@@ -15,6 +15,8 @@
   "dependencies": {
     "bulma": "^0.5.1",
     "css-loader": "^0.28.4",
+    "express": "^4.15.4",
+    "gzippo": "^0.2.0",
     "less": "^2.7.2",
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
