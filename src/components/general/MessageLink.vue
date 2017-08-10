@@ -21,10 +21,20 @@ export default {
 </script>
 
 <style lang="css" scoped>
+.message {
+  height: 170px;
+  width: 180px;
+}
+
 .message-icon {
   padding: 15px;
 }
+
 p {
   font-size: 12px;
+}
+
+a {
+  padding: 12px;
 }
 </style>

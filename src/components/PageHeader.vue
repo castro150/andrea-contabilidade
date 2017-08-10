@@ -25,6 +25,9 @@ export default {
 </script>
 
 <style lang="css" scoped>
+.hero {
+  padding: 52px;
+}
 .logo {
   width: 320px;
 }

@@ -12,29 +12,43 @@
       <li>Saúde.</li>
     </ul>
 
-    <h2>Contábil</h2>
-    <p>Nosso atendimento é ajustado a cada cliente considerando a natureza do negócio e a especificidade de cada atividade. Elaboramos e estruturamos os planos de contas individualizados: uma empresa de prestação de serviço tem necessidades diferentes de
-      uma empresa comercial e de uma entidade sem fins lucrativos etc.</p>
+    <div class="columns p-t-15 category">
+      <div class="column is-4 has-text-centered category-icon">
+        <h2>Contábil</h2>
+        <icon name="usd" scale="15"></icon>
+      </div>
+      <div class="column is-8 category-text">
+        <p>Nosso atendimento é ajustado a cada cliente considerando a natureza do negócio e a especificidade de cada atividade. Elaboramos e estruturamos os planos de contas individualizados: uma empresa de prestação de serviço tem necessidades diferentes
+          de uma empresa comercial e de uma entidade sem fins lucrativos etc.</p>
 
-    <p>Oferecemos também:</p>
-    <ul>
-      <li>Escrituração contábil totalmente informatizada com sistema integrado e equipamentos de última geração;</li>
-      <li>Classificação e escrituração contábil;</li>
-      <li>Elaboração dos Livros (Diário e Razão) e registro, de acordo com as normas e princípios contábeis vigentes;</li>
-      <li>Elaboração de balanço anual e demonstrativo de resultados;</li>
-      <li>Distribuição de lucros conforme escrituração contábil, respeitando a legislação tributária vigente.</li>
-    </ul>
+        <p>Oferecemos também:</p>
+        <ul>
+          <li>Escrituração contábil totalmente informatizada com sistema integrado e equipamentos de última geração;</li>
+          <li>Classificação e escrituração contábil;</li>
+          <li>Elaboração dos Livros (Diário e Razão) e registro, de acordo com as normas e princípios contábeis vigentes;</li>
+          <li>Elaboração de balanço anual e demonstrativo de resultados;</li>
+          <li>Distribuição de lucros conforme escrituração contábil, respeitando a legislação tributária vigente.</li>
+        </ul>
+      </div>
+    </div>
 
-    <h2>Fiscal</h2>
-    <ul>
-      <li>Lançamento de notas fiscais em sistema específico de acordo com a opção tributária da empresa;</li>
-      <li>Escrituração de livros fiscais: Livros de Inventário, Livro de Entrada, Livro de Saída e Livro de Apuração de ICMS, em sistema informatizado e integrado;</li>
-      <li>Apuração e controle dos impostos federais (PIS, COFINS, IRPJ e CSSL ou DAS), impostos estaduais (ICMS, ICMS-ST) e impostos e taxas municipais (ISS) e (TFLF/TFA);</li>
-      <li>Envio de guias via internet ou entregues por moto boy, de acordo com a preferência do cliente;</li>
-      <li>Orientação para a emissão das notas fiscais;</li>
-      <li>Preparação e entrega das declarações mensais e anuais, tais como: SINTEGRA, DAPI, DES, DCTF, SPED, DEFIS, DIPJ, VAF ou outros que os venham substituir;</li>
-      <li>Exigências ou solicitações dos órgãos de fiscalização.</li>
-    </ul>
+    <div class="columns p-t-15 category">
+      <div class="column is-8 category-text">
+        <ul>
+          <li>Lançamento de notas fiscais em sistema específico de acordo com a opção tributária da empresa;</li>
+          <li>Escrituração de livros fiscais: Livros de Inventário, Livro de Entrada, Livro de Saída e Livro de Apuração de ICMS, em sistema informatizado e integrado;</li>
+          <li>Apuração e controle dos impostos federais (PIS, COFINS, IRPJ e CSSL ou DAS), impostos estaduais (ICMS, ICMS-ST) e impostos e taxas municipais (ISS) e (TFLF/TFA);</li>
+          <li>Envio de guias via internet ou entregues por moto boy, de acordo com a preferência do cliente;</li>
+          <li>Orientação para a emissão das notas fiscais;</li>
+          <li>Preparação e entrega das declarações mensais e anuais, tais como: SINTEGRA, DAPI, DES, DCTF, SPED, DEFIS, DIPJ, VAF ou outros que os venham substituir;</li>
+          <li>Exigências ou solicitações dos órgãos de fiscalização.</li>
+        </ul>
+      </div>
+      <div class="column is-4 has-text-centered category-icon">
+        <h2>Fiscal</h2>
+        <icon name="pencil-square-o" scale="15"></icon>
+      </div>
+    </div>
 
     <h2>Trabalhista</h2>
     <ul>
@@ -45,18 +59,25 @@
       <li>Atendimento a notificações junto ao Ministério do Trabalho, representando a empresa como preposto e organizando toda documentação solicitada num processo de fiscalização.</li>
     </ul>
 
-    <h2>Serviços Especiais</h2>
-    <p>Serviços não rotineiros, tais como:</p>
-    <ul>
-      <li>Elaboração de contratos sociais, alterações e distratos;</li>
-      <li>Registro na Junta Comercial ou Cartório de Registro Civil de Pessoas Jurídicas;</li>
-      <li>Inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ);</li>
-      <li>Inscrição junto ao Estado e Município;</li>
-      <li>Alvará de localização e funcionamento;</li>
-      <li>Obtenção de certidões negativas junto às Receitas Federal, Estadual e Municipal, INSS, FGTS, Tribunal de Justiça, Falência e Concordata e acompanhamento de SICAF e SUCAF;</li>
-      <li>Expedientes para parcelamentos de débitos junto à Receita Federal, Estadual, Municipal, FGTS e INSS;</li>
-      <li>Baixa de Inscrição no INSS, Receita Federal, Estado e Município.</li>
-    </ul>
+    <div class="columns p-t-15 category">
+      <div class="column is-4 has-text-centered category-icon">
+        <h2>Serviços Especiais</h2>
+        <icon name="star" scale="15"></icon>
+      </div>
+      <div class="column is-8 category-text">
+        <p>Serviços não rotineiros, tais como:</p>
+        <ul>
+          <li>Elaboração de contratos sociais, alterações e distratos;</li>
+          <li>Registro na Junta Comercial ou Cartório de Registro Civil de Pessoas Jurídicas;</li>
+          <li>Inscrição no Cadastro Nacional de Pessoa Jurídica (CNPJ);</li>
+          <li>Inscrição junto ao Estado e Município;</li>
+          <li>Alvará de localização e funcionamento;</li>
+          <li>Obtenção de certidões negativas junto às Receitas Federal, Estadual e Municipal, INSS, FGTS, Tribunal de Justiça, Falência e Concordata e acompanhamento de SICAF e SUCAF;</li>
+          <li>Expedientes para parcelamentos de débitos junto à Receita Federal, Estadual, Municipal, FGTS e INSS;</li>
+          <li>Baixa de Inscrição no INSS, Receita Federal, Estado e Município.</li>
+        </ul>
+      </div>
+    </div>
 
     <h2>Pessoa Física</h2>
     <ul>
@@ -75,4 +96,16 @@ export default {
 </script>
 
 <style scoped>
+.category {
+  display: table;
+}
+
+.category-icon {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.category-text {
+  display: table-cell;
+}
 </style>

@@ -22,7 +22,5 @@ export default {
 </script>
 
 <style lang="scss">
-$dark-blue: #002E53;
-$primary: $dark-blue;
-@import "~bulma/bulma";
+@import 'assets/css/main.scss';
 </style>

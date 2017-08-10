@@ -14,6 +14,7 @@ export default {
 <style lang="css" scoped>
 .card {
   padding: 5px;
-  height: 145px;
+  height: 165px;
+  width: 200px;
 }
 </style>
